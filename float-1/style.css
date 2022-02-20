@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    letter-spacing: -0.02em;
+}
+
+.tabNav {
+    font-size: 18px;
+    line-height: 20px;
+    color: #8492a6;
+    text-decoration: none;
+    background-color: #E5E5E5;
+    overflow: hidden;
+}
+
+.tabNav div {
+    float: left;
+    margin-right: 16px;
+    padding: 16px 20px;
+}
+
+.tabNav .summary {
+    width: 115px;
+    height: 52px;
+}
+
+.tabNav .emails {
+    width: 93px;
+    height: 52px;
+    color: #0066ff;
+}
+
+.tabNav .files {
+    width: 77px;
+    height: 52px;
+}
+
+.tabNav .mentions {
+    width: 113px;
+    height: 52px;
+}
+
+/* ▼ WHERE YOUR CODE BEGINS */
